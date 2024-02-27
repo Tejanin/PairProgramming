@@ -1,0 +1,7 @@
+C:\Users\mario\Desktop\INTEC\Trimestre 11\Tendencias de Software\Lab\PairProgramming\PairProgramming\bin\Debug\PairProgramming.exe.config
+C:\Users\mario\Desktop\INTEC\Trimestre 11\Tendencias de Software\Lab\PairProgramming\PairProgramming\bin\Debug\PairProgramming.exe
+C:\Users\mario\Desktop\INTEC\Trimestre 11\Tendencias de Software\Lab\PairProgramming\PairProgramming\bin\Debug\PairProgramming.pdb
+C:\Users\mario\Desktop\INTEC\Trimestre 11\Tendencias de Software\Lab\PairProgramming\PairProgramming\obj\Debug\PairProgramming.csproj.AssemblyReference.cache
+C:\Users\mario\Desktop\INTEC\Trimestre 11\Tendencias de Software\Lab\PairProgramming\PairProgramming\obj\Debug\PairProgramming.csproj.CoreCompileInputs.cache
+C:\Users\mario\Desktop\INTEC\Trimestre 11\Tendencias de Software\Lab\PairProgramming\PairProgramming\obj\Debug\PairProgramming.exe
+C:\Users\mario\Desktop\INTEC\Trimestre 11\Tendencias de Software\Lab\PairProgramming\PairProgramming\obj\Debug\PairProgramming.pdb

@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PairProgramming", "PairProgramming\PairProgramming.csproj", "{C465D95D-940A-49C7-93E4-C6AD359C93BC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PairProgrammingTesting", "PairProgrammingTesting\PairProgrammingTesting.csproj", "{08EE328C-B67C-4923-992B-6282680834CA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C465D95D-940A-49C7-93E4-C6AD359C93BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C465D95D-940A-49C7-93E4-C6AD359C93BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C465D95D-940A-49C7-93E4-C6AD359C93BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08EE328C-B67C-4923-992B-6282680834CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08EE328C-B67C-4923-992B-6282680834CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08EE328C-B67C-4923-992B-6282680834CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08EE328C-B67C-4923-992B-6282680834CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
