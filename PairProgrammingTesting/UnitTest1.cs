@@ -30,11 +30,11 @@ namespace PairProgrammingTesting
         }
 
         [TestMethod]
-        public void TestingAnotherValidCase()
-        {
-            string AntStampede = "ant..a...antant...an.t.ant..ant.t.ant.a.n.t..";
+        public void TestingValidStrings() {
+            string Ant = "ant";
 
-            Assert.AreEqual(4, PairProgramming.Program.CountAnts(AntStampede));
+            Assert.AreEqual(0,PairProgramming.Program.CountAnts("ant"));
         }
+
     } 
 }

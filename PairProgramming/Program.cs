@@ -11,8 +11,11 @@ namespace PairProgramming
         public static  int antsCounter = 0;
         static void Main(string[] args)
         {
+            Console.Write("Enter a string with ants:");
+            string ants = Console.ReadLine();
+            Console.WriteLine($"There are {CountAnts(ants)} ants dead");
 
-            CountAnts("...ant...ant..nat.ant.t..ant...ant..ant..ant.anant..t");
+            Console.ReadLine();
             
         }
 
@@ -26,7 +29,7 @@ namespace PairProgramming
             for (int i = 0; i < Ants.Length; i++)
             {
                 // Confirm if the string is valid
-                if (Ants[i] != 'a' && Ants[i] != 'n' && Ants[i] != 't' && Ants[i] != '.') break;
+                if (Ants[i] != 'a' && Ants[i] != 'n' && Ants[i] != 't' && Ants[i] != '.') return 0;
                 // Skip all the dots
                 if (Ants[i] == '.') continue;
 
@@ -78,7 +81,7 @@ namespace PairProgramming
         {
             if (part)
             {
-                antsCounter ++;
+                antsCounter++;
             }
             else
             {
