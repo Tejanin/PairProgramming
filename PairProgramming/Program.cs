@@ -10,9 +10,30 @@ namespace PairProgramming
      {
         static void Main(string[] args)
         {
+
+            CountAnts("..ant..ant.ant...ant.ant..ant.ant....ant..ant.ant.ant...ant..");
+            
+        }
+
+      public static int  CountAnts(string Ants )
+        {
+            //Console.WriteLine("Insert the Ants Line:");
+            //string AntsLine = Console.ReadLine();
+
+            //Console.WriteLine("Insert the Ants Line after the Stampede:");
+            //string AntsLine = Console.ReadLine();
+
             // O(2N)
-            string Ants = "..ant..ant.ant...ant.ant..ant.ant....ant..ant.ant.ant...ant..";
-            string AntStampede = "...ant...ant..nat.ant.t..ant...ant..ant..ant.anant..t";
+            
+
+            for (int i = 0; i < AntStampede.Length; i++)
+            {
+                if (AntStampede[i] == '.') continue;
+
+
+
+            }
+
 
             int AliveBefore = Ants.Count(c => c == '.');
             int AliveAfter = AntStampede.Count(c => c == '.');
@@ -20,11 +41,6 @@ namespace PairProgramming
             int Deadants = AliveBefore - AliveAfter;
             Console.WriteLine(Deadants);
             Console.ReadLine();
-            
-        }
-
-      public static int  CountAnts(string Ants )
-        {
             return 0;
         }
 
