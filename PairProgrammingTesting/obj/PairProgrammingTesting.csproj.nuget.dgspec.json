@@ -4,6 +4,21 @@
     "C:\\Users\\mario\\Desktop\\INTEC\\Trimestre 11\\Tendencias de Software\\Lab\\PairProgramming\\PairProgrammingTesting\\PairProgrammingTesting.csproj": {}
   },
   "projects": {
+    "C:\\Users\\mario\\Desktop\\INTEC\\Trimestre 11\\Tendencias de Software\\Lab\\PairProgramming\\AntsBefore\\AntsBefore.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mario\\Desktop\\INTEC\\Trimestre 11\\Tendencias de Software\\Lab\\PairProgramming\\AntsBefore\\AntsBefore.csproj",
+        "projectName": "AntsBefore",
+        "projectPath": "C:\\Users\\mario\\Desktop\\INTEC\\Trimestre 11\\Tendencias de Software\\Lab\\PairProgramming\\AntsBefore\\AntsBefore.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
     "C:\\Users\\mario\\Desktop\\INTEC\\Trimestre 11\\Tendencias de Software\\Lab\\PairProgramming\\PairProgrammingTesting\\PairProgrammingTesting.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -28,6 +43,9 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
+              "C:\\Users\\mario\\Desktop\\INTEC\\Trimestre 11\\Tendencias de Software\\Lab\\PairProgramming\\AntsBefore\\AntsBefore.csproj": {
+                "projectPath": "C:\\Users\\mario\\Desktop\\INTEC\\Trimestre 11\\Tendencias de Software\\Lab\\PairProgramming\\AntsBefore\\AntsBefore.csproj"
+              },
               "C:\\Users\\mario\\Desktop\\INTEC\\Trimestre 11\\Tendencias de Software\\Lab\\PairProgramming\\PairProgramming\\PairProgramming.csproj": {
                 "projectPath": "C:\\Users\\mario\\Desktop\\INTEC\\Trimestre 11\\Tendencias de Software\\Lab\\PairProgramming\\PairProgramming\\PairProgramming.csproj"
               }

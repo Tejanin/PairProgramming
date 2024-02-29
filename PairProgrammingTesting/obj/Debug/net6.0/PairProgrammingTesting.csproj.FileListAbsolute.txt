@@ -100,3 +100,6 @@ C:\Users\mario\Desktop\INTEC\Trimestre 11\Tendencias de Software\Lab\PairProgram
 C:\Users\mario\Desktop\INTEC\Trimestre 11\Tendencias de Software\Lab\PairProgramming\PairProgrammingTesting\obj\Debug\net6.0\PairProgrammingTesting.pdb
 C:\Users\mario\Desktop\INTEC\Trimestre 11\Tendencias de Software\Lab\PairProgramming\PairProgrammingTesting\obj\Debug\net6.0\PairProgrammingTesting.genruntimeconfig.cache
 C:\Users\mario\Desktop\INTEC\Trimestre 11\Tendencias de Software\Lab\PairProgramming\PairProgrammingTesting\obj\Debug\net6.0\ref\PairProgrammingTesting.dll
+C:\Users\mario\Desktop\INTEC\Trimestre 11\Tendencias de Software\Lab\PairProgramming\PairProgrammingTesting\bin\Debug\net6.0\AntsBefore.exe
+C:\Users\mario\Desktop\INTEC\Trimestre 11\Tendencias de Software\Lab\PairProgramming\PairProgrammingTesting\bin\Debug\net6.0\AntsBefore.pdb
+C:\Users\mario\Desktop\INTEC\Trimestre 11\Tendencias de Software\Lab\PairProgramming\PairProgrammingTesting\bin\Debug\net6.0\AntsBefore.exe.config

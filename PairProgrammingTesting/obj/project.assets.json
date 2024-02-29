@@ -599,6 +599,15 @@
           }
         }
       },
+      "AntsBefore/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/AntsBefore.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AntsBefore.dll": {}
+        }
+      },
       "PairProgramming/1.0.0": {
         "type": "project",
         "compile": {
@@ -2302,6 +2311,11 @@
         "system.threading.tasks.nuspec"
       ]
     },
+    "AntsBefore/1.0.0": {
+      "type": "project",
+      "path": "../AntsBefore/AntsBefore.csproj",
+      "msbuildProject": "../AntsBefore/AntsBefore.csproj"
+    },
     "PairProgramming/1.0.0": {
       "type": "project",
       "path": "../PairProgramming/PairProgramming.csproj",
@@ -2310,6 +2324,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "AntsBefore >= 1.0.0",
       "MSTest.TestAdapter >= 2.2.10",
       "MSTest.TestFramework >= 2.2.10",
       "Microsoft.NET.Test.Sdk >= 17.5.0",
@@ -2344,6 +2359,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "C:\\Users\\mario\\Desktop\\INTEC\\Trimestre 11\\Tendencias de Software\\Lab\\PairProgramming\\AntsBefore\\AntsBefore.csproj": {
+              "projectPath": "C:\\Users\\mario\\Desktop\\INTEC\\Trimestre 11\\Tendencias de Software\\Lab\\PairProgramming\\AntsBefore\\AntsBefore.csproj"
+            },
             "C:\\Users\\mario\\Desktop\\INTEC\\Trimestre 11\\Tendencias de Software\\Lab\\PairProgramming\\PairProgramming\\PairProgramming.csproj": {
               "projectPath": "C:\\Users\\mario\\Desktop\\INTEC\\Trimestre 11\\Tendencias de Software\\Lab\\PairProgramming\\PairProgramming\\PairProgramming.csproj"
             }

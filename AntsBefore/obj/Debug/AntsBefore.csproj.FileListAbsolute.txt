@@ -1,0 +1,7 @@
+C:\Users\mario\Desktop\INTEC\Trimestre 11\Tendencias de Software\Lab\PairProgramming\AntsBefore\bin\Debug\AntsBefore.exe.config
+C:\Users\mario\Desktop\INTEC\Trimestre 11\Tendencias de Software\Lab\PairProgramming\AntsBefore\bin\Debug\AntsBefore.exe
+C:\Users\mario\Desktop\INTEC\Trimestre 11\Tendencias de Software\Lab\PairProgramming\AntsBefore\bin\Debug\AntsBefore.pdb
+C:\Users\mario\Desktop\INTEC\Trimestre 11\Tendencias de Software\Lab\PairProgramming\AntsBefore\obj\Debug\AntsBefore.csproj.AssemblyReference.cache
+C:\Users\mario\Desktop\INTEC\Trimestre 11\Tendencias de Software\Lab\PairProgramming\AntsBefore\obj\Debug\AntsBefore.csproj.CoreCompileInputs.cache
+C:\Users\mario\Desktop\INTEC\Trimestre 11\Tendencias de Software\Lab\PairProgramming\AntsBefore\obj\Debug\AntsBefore.exe
+C:\Users\mario\Desktop\INTEC\Trimestre 11\Tendencias de Software\Lab\PairProgramming\AntsBefore\obj\Debug\AntsBefore.pdb

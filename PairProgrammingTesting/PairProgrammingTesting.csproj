@@ -17,6 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\AntsBefore\AntsBefore.csproj" />
     <ProjectReference Include="..\PairProgramming\PairProgramming.csproj" />
   </ItemGroup>
 
